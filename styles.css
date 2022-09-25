@@ -1,0 +1,235 @@
+.app-blurb {
+  text-align: center;
+  width: 40%;
+  margin: auto;
+}
+
+.app-button {
+  padding: 10px;
+}
+
+.app-list {
+  width: 100%;
+}
+
+.app-photo {
+  margin-right: 10%;
+}
+
+.app-space {
+  display: flex;
+  margin-left: 10%;
+}
+
+.apply {
+  text-align: center;
+  background-color: rgb(198, 54, 99);
+  color: #fff;
+  padding-top: 20px;
+  padding-bottom: 5px;
+}
+
+.apply a {
+  color: #fff;
+}
+
+body {
+  font-family: 'Varela Round', "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  color: #333;
+  line-height: 1;
+  font-size: 20px;
+  background-color: lightgray;
+}
+
+.btn {
+  background-color: #c63663;
+  border: 2px solid #c63663;
+  border-radius: 50px;
+  box-sizing: border-box;
+  color: #fff;
+  font-size: 1.15rem;
+  font-weight: bold;
+  line-height: 1;
+  height: auto;
+  margin: 0.5rem auto;
+  min-height: 45px;
+  min-width: 200px;
+  padding: 13px;
+  text-align: center;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: all 250ms ease-in-out;
+  font-family: DunkinSansDisplay, DunkinSansBook, "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.button-group {
+  text-align: center;
+}
+
+.cup-image {
+  position: relative;
+}
+
+footer a {
+  color: black;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer a:hover {
+  color: gray;
+}
+
+.gift-card-blurb {
+  text-align: center;
+  margin: 30px;
+}
+
+.gift-card-icon {
+  max-width: 100%;
+  width: auto;
+  height: auto;
+}
+
+.item {
+  background-color: transparent;
+  text-align: center;
+  padding-top: 20px;
+  border: 1px solid #d5d5d5;
+}
+
+@media screen and (max-width: 600px) {
+  .item {
+    width: 50%;
+  }
+}
+
+.item-1 {
+  padding-left: 10%;
+  padding-right: 15%;
+  margin-left: 10%:
+}
+
+.item-2 {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.item-3 {
+  padding-left: 10%;
+  padding-right: 30%;
+  margin-right: 20%;
+}
+
+.menu-blurb {
+  text-align: center;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  right: 20%;
+}
+
+.menu-image {
+  width: 200px;
+  height: 200px;
+}
+
+.menu-items {
+  margin-right: 30%;
+}
+
+.nav-buttons {
+  display: flex;
+  margin: 10px 70%;
+}
+
+.nav-link {
+  color: black;
+}
+
+.nav-list {
+  margin: auto;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 1.15rem;
+}
+
+.nav-list {
+  padding;
+  60px color: black;
+}
+
+.teaser-blurb h2 {
+  position: relative;
+  left: 25%;
+}
+
+.perk {
+  text-align: center;
+  margin-left: 6%;
+  margin-right: 6%;
+}
+
+.perk h5 {
+  text-decoration-thickness: 10px;
+}
+
+.perk img {
+  margin-bottom: 5px;
+}
+
+.perks-grid {
+  display: flex;
+  margin-top: 30px;
+}
+
+.site-wrapper {
+  max-width: 1440px;
+  min-height: 100vh;
+  margin: 0 auto;
+  background-color: #fff;
+  overflow: hidden;
+}
+
+.socials {
+  text-align: center;
+}
+
+foote p {
+  text-align: center;
+}
+
+.teaser {
+  display: flex;
+  position: relative;
+}
+
+.teaser-blurb {
+  position: absolute;
+  z-index: 1;
+  right: 25%;
+  left: 35%;
+}
+
+.teaser-image {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.map {
+  margin: 20px;
+}
+
+.menu-image {}
+
+.visit-blurb {
+  text-align: center;
+  position: relative;
+  right: 5%;
+  margin-top: 10%;
+}
